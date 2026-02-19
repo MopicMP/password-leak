@@ -1,0 +1,5 @@
+[
+  "tests/test_password_leak.py::TestLeak::test_basic",
+  "tests/test_password_leak.py::TestLeak::test_empty",
+  "tests/test_password_leak.py::TestLeak::test_type_error"
+]
